@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,vite,angular,postgres,mongodb,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,angular,html,css,scss,postgres,express,nodejs,mongodb,vscode,github" />
   </a>
 </p>
 
